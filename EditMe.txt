@@ -1,9 +1,9 @@
 Hello World!
 
-First Name: 
-Last Name: 
-Student ID: 
-Student Email: 
+First Name: Akmal
+Last Name: Jumaboyev
+Student ID: 230076
+Student Email: a.jumaboyev@newuu.uz
 
 // Some Comments:
 // ...
